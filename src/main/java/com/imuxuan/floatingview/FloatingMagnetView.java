@@ -14,12 +14,12 @@ import android.widget.FrameLayout;
 import com.imuxuan.floatingview.utils.SystemUtils;
 
 /**
- * @ClassName FloatingMagnetView
- * @Description 磁力吸附悬浮窗
- * @Author Yunpeng Li
- * @Creation 2018/3/15 下午5:02
- * @Mender Yunpeng Li
- * @Modification 2018/3/15 下午5:02
+ * ClassName FloatingMagnetView
+ * Description 磁力吸附悬浮窗
+ * Author Yunpeng Li
+ * Creation 2018/3/15 下午5:02
+ * Mender Yunpeng Li
+ * Modification 2018/3/15 下午5:02
  */
 public class FloatingMagnetView extends FrameLayout {
 

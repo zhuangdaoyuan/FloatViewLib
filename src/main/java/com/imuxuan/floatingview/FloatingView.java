@@ -16,12 +16,12 @@ import com.imuxuan.floatingview.utils.EnContext;
 
 
 /**
- * @ClassName FloatingView
- * @Description 悬浮窗管理器
- * @Author Yunpeng Li
- * @Creation 2018/3/15 下午5:05
- * @Mender Yunpeng Li
- * @Modification 2018/3/15 下午5:05
+ * ClassName FloatingView
+ * Description 悬浮窗管理器
+ * Author Yunpeng Li
+ * Creation 2018/3/15 下午5:05
+ * Mender Yunpeng Li
+ * Modification 2018/3/15 下午5:05
  */
 public class FloatingView {
 

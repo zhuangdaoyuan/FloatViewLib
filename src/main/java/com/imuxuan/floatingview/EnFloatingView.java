@@ -7,12 +7,12 @@ import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
 
 /**
- * @ClassName EnFloatingView
- * @Description 悬浮窗
- * @Author Yunpeng Li
- * @Creation 2018/3/15 下午5:04
- * @Mender Yunpeng Li
- * @Modification 2018/3/15 下午5:04
+ * ClassName EnFloatingView
+ * Description 悬浮窗
+ * Author Yunpeng Li
+ * Creation 2018/3/15 下午5:04
+ * Mender Yunpeng Li
+ * Modification 2018/3/15 下午5:04
  */
 public class EnFloatingView extends FloatingMagnetView {
 
